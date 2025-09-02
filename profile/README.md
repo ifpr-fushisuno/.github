@@ -15,13 +15,17 @@ Nosso objetivo é reunir todo o material produzido em sala de aula em um só lug
 
 ---
 
+## 📚 Linguagens & Ferramentas</h3>
+
+<img src="https://skillicons.dev/icons?i=java,py,html,css,js,django,sqlite" />
+
 ## 📁 Estrutura dos Repositórios
 
 | Repositório | Descrição |
 | :--- | :--- |
 | `ifpr-atividades` | Exercícios e entregas gerais de disciplinas. |
 | `ifpr-poo` | Projetos e práticas de Programação Orientada a Objetos. |
-| `ifpr-pi` | Projetos Integrador desenvolvido ao longo do curso. |
+| `ifpr-pi` | Projetos Integradores desenvolvidos ao longo do curso. |
 | `ifpr-segas` | Atividades e estudos sobre Segurança e Auditoria de Sistemas. |
 | `ifpr-web` | Projetos e exercícios de Programação Web (Front-end e Back-end). |
 
