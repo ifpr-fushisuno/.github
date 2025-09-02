@@ -17,7 +17,8 @@ Organizar e centralizar repositórios acadêmicos, incluindo:
 ## 🗂 Estrutura dos Repositórios
 - **ifpr-atividades** → Exercícios e entregas de disciplinas  
 - **ifpr-poo** → Projetos de Programação Orientada a Objetos  
-- **ifpr-pi** → Projeto Integrador  
+- **ifpr-pi** → Projeto Integrador
+- **ifpr-segas** → Segurança e Auditoria de Sistemas
 - Outros repositórios relacionados a estudos e práticas acadêmicas  
 
 ---
