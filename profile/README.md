@@ -17,7 +17,11 @@ Nosso objetivo é reunir todo o material produzido em sala de aula em um só lug
 
 ## 📚 Linguagens & Ferramentas</h3>
 
-<img src="https://skillicons.dev/icons?i=java,py,html,css,js,django,sqlite" />
+<br>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,django,sqlite,git,github,vscode" /><br>
+</div>
+<br/>
 
 ## 📁 Estrutura dos Repositórios
 
@@ -29,6 +33,22 @@ Nosso objetivo é reunir todo o material produzido em sala de aula em um só lug
 | `ifpr-segas` | Atividades e estudos sobre Segurança e Auditoria de Sistemas. |
 | `ifpr-web` | Projetos e exercícios de Programação Web (Front-end e Back-end). |
 
+> Uma breve descrição do projeto, com tecnologias e seu principal objetivo.
+---
+
+## ✨ Projetos em Destaque
+
+**[Projeto Integrador: Sistema de Gestão de Saúde Animal](https://github.com/ifpr-fushisuno/ifpr-pi)**
+
+---
+
+## 👊 Como Contribuir
+
+Você tem um projeto acadêmico do IFPR - Campus Cascavel e gostaria de adicioná-lo aqui?
+1.  Crie um fork desta organização e adicione seu repositório.
+2.  Envie um pull request com as informações do seu projeto.
+3.  Entre em contato com o mantenedor para que seu repositório seja incluído na estrutura.
+
 ---
 
 ## 🔗 Links Importantes
@@ -38,9 +58,8 @@ Nosso objetivo é reunir todo o material produzido em sala de aula em um só lug
 ---
 
 ## 📍 Localização
-
 Cascavel - Paraná, Brasil
-
 ---
+
 
 ✍️ Organização mantida por [Kainã (fushisuno)](https://github.com/fushisuno)
