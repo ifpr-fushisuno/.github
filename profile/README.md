@@ -58,7 +58,9 @@ Você tem um projeto acadêmico do IFPR - Campus Cascavel e gostaria de adicion�
 ---
 
 ## 📍 Localização
-Cascavel - Paraná, Brasil
+- Cascavel - Paraná, Brasil
+
+
 ---
 
 
